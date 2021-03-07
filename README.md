@@ -1,2 +1,2 @@
 # learnRebase
-i learn a git rebase.
+I learn a git rebase.
